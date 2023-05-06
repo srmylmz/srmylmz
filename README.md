@@ -1,4 +1,4 @@
-### Hi there 👋 I'm SIRMA
+### Hi there 👋 **I'm SIRMA**
 
 <!--
 **srmylmz/srmylmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
